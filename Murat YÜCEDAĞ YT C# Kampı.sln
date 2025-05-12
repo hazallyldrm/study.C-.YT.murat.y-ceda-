@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-1.VİDEO", "C#-1.VİDEO\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-3.VİDEO", "C#-3.Video\C#-3.VİDEO.csproj", "{90F0786F-D622-47A6-8F1F-A3F024722361}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-4.DERS", "C#-4.DERS\C#-4.DERS.csproj", "{FD65226C-65B0-438B-9C60-307BAC9888B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-4.VİDEO", "C#-4.DERS\C#-4.VİDEO.csproj", "{FD65226C-65B0-438B-9C60-307BAC9888B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#-5.VİDEO", "Video5-C#\C#-5.VİDEO.csproj", "{463E26B2-07F8-4B5A-B71C-2F92761AD9B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FD65226C-65B0-438B-9C60-307BAC9888B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD65226C-65B0-438B-9C60-307BAC9888B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD65226C-65B0-438B-9C60-307BAC9888B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463E26B2-07F8-4B5A-B71C-2F92761AD9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463E26B2-07F8-4B5A-B71C-2F92761AD9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463E26B2-07F8-4B5A-B71C-2F92761AD9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463E26B2-07F8-4B5A-B71C-2F92761AD9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
